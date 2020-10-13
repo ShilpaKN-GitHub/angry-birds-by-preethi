@@ -1,2 +1,2 @@
-# angry-birds-by-preethi
-Game with multiple birds and bug fixes.
+# Angry-Bird-Game
+Angry Bird Game - One Level 
